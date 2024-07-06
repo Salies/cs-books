@@ -48,3 +48,24 @@ Some Portuguese-only books. I don't make the rules (actually, I do).
 
 * Tanenbaum, *Modern Operating Systems* 🐐
 * Silberschatz, *Operating System Concepts*
+
+## Computer networks
+
+* Kurose 🐐
+* Tanenbaum
+
+## Databases
+
+* Silberschatz 🐐
+
+## Object oriented programming
+
+* Design Patterns: Elements of Reusable Object-Oriented Software 🐐
+* Larman, Applying UML and patterns
+
+## Software engineering
+* Pressman 🐐
+
+## Image processing
+
+* Gonzalez, *Digital Image Processing* 🐐
